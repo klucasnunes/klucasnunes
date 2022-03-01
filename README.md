@@ -12,10 +12,7 @@
 ***
 
 ### Minhas redes socias:
-   [GitHub](https://github.com/klucasnunes)
+   [GitHub](https://github.com/klucasnunes) \
    [Instagram](https://Instagram.com/klucas.nunes)
-   
-   <p> <a href="https://github.com/klucasnunes" target="_blank" rel="external">GitHub</a> </p>
-   <p> <a href="https://Instagram.com/klucas.nunes" target="_blank" rel="external">Instagram</a> </p>
 
 
