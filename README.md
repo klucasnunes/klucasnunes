@@ -1,6 +1,6 @@
-# Hey, Eu sou o Lucas
+# Hey, Eu sou o Lucas :computer: :sunglasses:
     
-*Eu sou um estudante de programação*
+*Eu sou um estudante de programação* 
 
 ## Linguagens que estou estudando:
    <p>
